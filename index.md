@@ -1,6 +1,14 @@
-# 
+# this is `<\h1>` header
 
 ![this is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
@@ -13,4 +21,6 @@
 
 
 
-This is an first header in markdown practice
+
+
+
